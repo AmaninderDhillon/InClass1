@@ -1,0 +1,12 @@
+/* Name: Amaninder Singh Dhillon, 8975714 */
+
+body{
+    font: normal small-caps 100 20px/1.5 arial, helvetica, sans-serif;
+    background-color: hsla(180, 4%, 5%, 0.5);
+    height: 100vh;
+    width: 100vw;
+}
+h2{
+    color: #bb8;
+    font-size: 2rem;
+}
