@@ -1,5 +1,7 @@
 /* Name: Amaninder Singh Dhillon, 8975714 */
 
+
+
 body{
     font: normal small-caps 100 20px/1.5 arial, helvetica, sans-serif;
     background-color: hsla(180, 4%, 5%, 0.5);
@@ -9,4 +11,41 @@ body{
 h2{
     color: #bb8;
     font-size: 2rem;
+}
+header{
+    background-color: hsl(237, 50%, 50%);
+}
+main{
+    float: left;
+    width: 65vw;
+    height: 80vh;
+    background-color: hsl(140, 2%, 26%);    
+}
+aside{
+    float: right;
+    width: 25vw;
+    height: 80vh;
+    background-color: hsl(8, 50%, 50%);    
+}
+footer{
+    clear: both;
+    background-color: hsl(177, 34%, 74%);    
+}
+.structural
+{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+#paraOne{
+    color: rgb(255, 150, 100);
+}
+#paraTwo{
+    color: rgb(100, 200, 250);
+}
+a:hover{
+    color: #a51;
+}
+footer p{
+    font-size: 0.50em;
 }
